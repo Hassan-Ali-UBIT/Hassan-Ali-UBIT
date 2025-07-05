@@ -14,7 +14,7 @@
 🐘 PostgreSQL | 🔀 OOP | 🧪 Testing
 
 **Certified in:**  
-✅ Frontend Web Development (self-taught backend ninja via YouTube + real-world projects)
+✅ Frontend Web Development (self-taught via YouTube + real-world projects)
 
 ---
 
