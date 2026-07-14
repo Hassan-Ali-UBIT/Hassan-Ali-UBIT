@@ -20,7 +20,6 @@ NestJS | 🐍 Python | 🧱 Django | 🛡️ DRF | 🐳 Docker | 🔄 Git & GitH
 
 ### 💼 What I'm Up To
 
-- 👨‍💻 Currently working as a **Backend Developer** remotely  
 - 🛠️ Haven't built any flashy side projects yet — open to ideas and collabs!
 - 🔍 Actively seeking **open source projects** to contribute to
 
