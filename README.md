@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Muhammad Hassan Ali
 
-🎯 I'm a Backend Developer passionate about building reliable, scalable, and clean backend systems. Currently juggling life between a remote dev job and final year university grind (FYP, anyone? 😅).
+🎯 I'm a Full Stack Developer passionate about building reliable, scalable, and clean backend systems. Currently juggling life between a remote dev job and final year university grind (FYP, anyone? 😅).
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 **Main Stack:**  
-🐍 Python | 🧱 Django | 🛡️ DRF | 🐳 Docker | 🔄 Git & GitHub | ⚙️ GitHub Actions | ✨ Clean Code
+NestJS | 🐍 Python | 🧱 Django | 🛡️ DRF | 🐳 Docker | 🔄 Git & GitHub | ⚙️ GitHub Actions | ✨ Clean Code 
 
 **Other Skills:**  
 🌐 HTML, CSS, JavaScript, React, TypeScript, Bootstrap, Sass  
