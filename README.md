@@ -13,7 +13,7 @@ I am a **Full Stack Software Engineer** specializing in modern frontend architec
 `NestJS` `Django` `Django REST Framework` `Python` `PostgreSQL` `Redis` `REST APIs`
 
 **Cloud & DevOps (IaC):**  
-`AWS (CDK, EC2, S3)` `Infrastructure as Code (IaC)` `Docker` `GitHub Actions` `CI/CD` `Linux` `pnpm`
+`AWS (CDK, EC2, S3)` `Infrastructure as Code (IaC)` `Docker` `GitHub Actions` 
 
 ---
 
