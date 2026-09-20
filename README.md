@@ -1,52 +1,40 @@
-## Hi there 👋 I'm Muhammad Hassan Ali
+# Hi there, I'm Muhammad Hassan Ali 👋
 
-🎯 I'm a Full Stack Developer passionate about building reliable, scalable, and clean backend systems. Currently juggling life between a remote dev job and final year university grind (FYP, anyone? 😅).
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Main Stack:**  
-NestJS | 🐍 Python | 🧱 Django | 🛡️ DRF | 🐳 Docker | 🔄 Git & GitHub | ⚙️ GitHub Actions | ✨ Clean Code 
-
-**Other Skills:**  
-🌐 HTML, CSS, JavaScript, React, TypeScript, Bootstrap, Sass  
-🐘 PostgreSQL | 🔀 OOP | 🧪 Testing
-
-**Certified in:**  
-✅ Frontend Web Development (self-taught via YouTube + real-world projects)
+I am a **Full Stack Software Engineer** specializing in modern frontend architecture, resilient backend APIs, and cloud infrastructure as code. I build end-to-end production web applications using **React, Next.js, TypeScript, NestJS, and AWS (CDK)**.
 
 ---
 
-### 💼 What I'm Up To
+### 🛠️ Tech Stack
 
-- 🛠️ Haven't built any flashy side projects yet — open to ideas and collabs!
-- 🔍 Actively seeking **open source projects** to contribute to
+**Frontend:**  
+`React` `Next.js` `TypeScript`  
 
----
+**Backend & Databases:**  
+`NestJS` `Django` `Django REST Framework` `Python` `PostgreSQL` `Redis` `REST APIs`
 
-### 💬 Ask Me About
-
-♟️ Chess and 🧮 Math — my favorite brain workouts  
-⚙️ Django, DRF, backend design patterns, and clean coding practices  
-
----
-
-### 😄 Fun Side of Me
-
-- 💡 Dark mode enthusiast 🌚
-- 🕓 Late-night coder (most of my bugs meet their fate after 12 AM)
-- 🧘‍♂️ Favorite Quote:  
-  > *"Don’t compare your Chapter 1 to someone else’s Chapter 20 — focus on progress, not perfection."*
+**Cloud & DevOps (IaC):**  
+`AWS (CDK, EC2, S3)` `Infrastructure as Code (IaC)` `Docker` `GitHub Actions` `CI/CD` `Linux` `pnpm`
 
 ---
 
-### 📫 Let's Connect
-
-- 📧 Email: hassanali.tech25@gmail.com  
-- 💼 LinkedIn: [Hassan Ali](https://www.linkedin.com/in/hassan-ali-79b8951a3/)
+### 🚀 What I'm Working On
+- 💻 Building full-stack web applications with modern Next.js and TypeScript.
+- ☁️ Provisioning reproducible cloud environments and deployment pipelines using **AWS CDK**.
+- ⚡ Designing scalable API architectures and clean frontend state management.
+- 🤝 Open to full-stack, frontend-heavy, or cloud-integrated software engineering roles.
 
 ---
+
+### 💬 Let's Talk About
+- Full-stack system design, frontend performance, and UI component architecture
+- Provisioning cloud infrastructure with AWS CDK and container workflows
+- ♟️ Chess and 🧮 Math puzzles
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [Hassan Ali](https://www.linkedin.com/in/hassan-ali----/)
+- **Email:** [hassanali.tech25@gmail.com](mailto:hassanali.tech25@gmail.com)
 
 <!--
 **Hassan-Ali-UBIT/Hassan-Ali-UBIT** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
